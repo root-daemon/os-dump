@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/root_daemon/College/OS/programs",
-      "program": "/Users/root_daemon/College/OS/programs/build/Debug/outDebug"
+      "cwd": "/home/root_daemon/College/OS/os-dump/10",
+      "program": "/home/root_daemon/College/OS/os-dump/10/build/Debug/outDebug"
     }
   ]
 }
